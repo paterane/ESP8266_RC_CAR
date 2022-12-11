@@ -4,7 +4,7 @@
 #include <WiFiClient.h>
 
 const char* ssid_AP = "RC_car";
-const char* pass_AP = "12101992peter";
+const char* pass_AP = "password";
 unsigned int port = 2390;
 
 char packetBuffer[100];

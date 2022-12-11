@@ -1,9 +1,9 @@
 #include <Servo.h>
 #include <ESP8266WiFi.h>
 
-const char* STA_ssid = "HomeNet_PO";
+const char* STA_ssid = "yourssid";
 const char* AP_ssid = "DIY_RC_Car";
-const char* password = "12@pnet#69";
+const char* password = "yourssid_password";
 bool networkFound = false;
 long curMillis; 
 int duration = 350;

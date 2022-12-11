@@ -1,8 +1,8 @@
 #include <ESP8266WiFi.h>
 
-const char* STA_ssid = "HomeNet_PO";
+const char* STA_ssid = "yourssid";
 const char* AP_ssid = "DIY_RC_Car";
-const char* password = "12@pnet#69";
+const char* password = "youssid_password";
 bool networkFound = false;
 
 WiFiServer server(333);
