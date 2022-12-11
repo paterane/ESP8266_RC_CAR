@@ -1,0 +1,17 @@
+TCP Protocol
+control request form 
+...?state=value1&value2
+
+value1 = -1023 to 1023 (default 0)
+value2 = 0 to 180 (default 90)
+
+example: 
+	...?state=0&90
+
+http://192.167.100.7:333?state=0&90
+
+UDP Protocol
+
+example sample message
+	
+	state=Y_value&X_value
