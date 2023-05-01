@@ -1,6 +1,6 @@
 ## ESP8266_Controlled_RC_car 
 
-**A kid's toy car was modified into a dynamically controllable RC cars.**
+**A kid's toy car was modified into a dynamically controllable RC car.**
 
 The RC car controller microcontroller is based on  `ESP8266 NodeMCU`.
 
